@@ -4,7 +4,7 @@ date: 2018-05-21 01:21:56
 tags:
 ---
 
-#### 2018/05/20 at 11:36 pm
+### 2018/05/20 at 11:36 pm
 
 1. I found **Hexo** and really liked it's design and simple structure and most importantly, I can just put my work or writings on GitHub as a backup.
 
@@ -12,7 +12,7 @@ tags:
 
    
 
-#### 2018/05/17 at 01:33 am
+### 2018/05/17 at 01:33 am
 
 A **catastrophic**  event happened to my website and I feel so regretful and painful to update here:
 
@@ -26,7 +26,7 @@ I spent the following 3-4 hours to do all the set up again!
 
 
 
-#### **2018/05/12 at 11:58 am**
+### **2018/05/12 at 11:58 am**
 
 After 2 weeks, the Flask app is working and I've successfully deployed it on AWS with Nginx:
 
@@ -35,7 +35,7 @@ After 2 weeks, the Flask app is working and I've successfully deployed it on AWS
 
 
 
-#### **2018/05/06 at 11:02 pm**
+### **2018/05/06 at 11:02 pm**
 
 1. Add Comment function to each post
 2. Add upload function
@@ -43,14 +43,14 @@ After 2 weeks, the Flask app is working and I've successfully deployed it on AWS
 
 
 
-#### **2018/05/01 at 11:51 pm**
+### **2018/05/01 at 11:51 pm**
 
 1. Finished the development with Signup and Login/Logout functions with Flask.
 2. Finished the 1st version of simple Instagram Flask app
 
 
 
-#### **2018/04/24 at 09:25 pm**
+### **2018/04/24 at 09:25 pm**
 
 I'm recently started to look at **Docker** and was trying to build an Instagram-like Flask app, during the dev process, I can combine the app with Docker and Jenkins and follow the best engineering approach.
 
@@ -58,7 +58,7 @@ Also, the **Celery** and **Redis** also attracts my attention and I'm reading bl
 
 
 
-#### **2018/03/30 at 11:34 am**
+### **2018/03/30 at 11:34 am**
 
 Made following changes during past 2 days:
 
@@ -68,7 +68,7 @@ Made following changes during past 2 days:
 
    
 
-#### **2018/03/29 at 11:59 pm**
+### **2018/03/29 at 11:59 pm**
 
 The development I made during last couple of days:
 
@@ -78,13 +78,13 @@ The development I made during last couple of days:
 
 
 
-#### **2017/12/29 at 11:59 pm**
+### **2017/12/29 at 11:59 pm**
 
 I'm so excited and proud to announce that the blog you are seeing right now is on **Nginx**!!!! 
 
 
 
-#### 2017/12/21 at 01:13 pm
+### 2017/12/21 at 01:13 pm
 
 Well it’s working now:
 
@@ -94,7 +94,7 @@ Well it’s working now:
 
 
 
-#### 2017/09/30 at 10:25 pm
+### 2017/09/30 at 10:25 pm
 
 It's an intermediate step, I've done followings during the past month:
 
@@ -105,7 +105,7 @@ It's an intermediate step, I've done followings during the past month:
 
 
 
-#### 2017/08/24 at 11:25 pm
+### 2017/08/24 at 11:25 pm
 
 WordPress website has so many restrictions to do customization and practice the coding framework such as **Django**, **Flask**, etc.
 
