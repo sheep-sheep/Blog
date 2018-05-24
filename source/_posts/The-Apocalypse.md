@@ -6,9 +6,7 @@ tags:
 
 Last week Wednesday, when I was enjoying my time after a long-day work, doing the Docker set up while listening to the music; all of a sudden, PuTTY console froze after I entered the "hello world" docker command. "ah, it's okay, I've met similar issue before, just restart the EC2 instance and it will be back to normal", I was thinking naively.
 
-![This is what I thought](images/turnitoffandon.gif)
-
-
+![This is what I thought](/images/turnitoffandon.gif)
 
 Clearly I didn't know the difference between **Terminate** and **Stop** and I clicked Stop first and after a while I clicked Terminate. Then, boom! My previous blog with the work and thought I put on it was officially terminated:sob::sob::sob:
 
