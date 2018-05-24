@@ -9,4 +9,9 @@
        "url":"http://fontawesome.io/",
        "desc":"A visualization project for bitcoin price to pratice JS"
     }
+    {
+       "name":"Notes of Leetcode",
+       "url":"https://yangzhang.us/leetcode",
+       "desc":"A Sphinx documentation for Leetcode questions, click with CAUTION, there's no BACK"
+    }
 ]
