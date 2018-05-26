@@ -4,6 +4,14 @@ date: 2018-05-21 01:21:56
 tags:
 ---
 
+### 2018/05/26 at 12:36 am
+
+1. **Sqlite3** has one connection issue but the log is really that clear!
+
+2. Added logging functions to **Gunicorn** and started to check the error.log
+
+   
+
 ### 2018/05/20 at 11:36 pm
 
 1. I found **Hexo** and really liked it's design and simple structure and most importantly, I can just put my work or writings on GitHub as a backup.
