@@ -9,6 +9,8 @@ description: most harmless website
 keywords: flask, python, poem, web development
 author: Yang Zhang
 language:
+- en
+- zh-Hans
 timezone: America/New_York
 
 # URL
