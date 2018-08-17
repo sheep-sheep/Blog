@@ -5,7 +5,21 @@ top: 10
 tags:
 ---
 
-### 2018/05/26 at 12:36 am
+### 2018/05/26 at 11:20 am
+
+1. Set up the 404 page and update the redirect policy
+
+   
+
+### 2018/05/26 at 11:20 am
+
+1. Found out that it's the *.service issue which I put wrong working environment and /bin
+
+2. Fixed permissions for **Gunicorn**
+
+   
+
+### 2018/05/26 at 00:36 am
 
 1. **Sqlite3** has one connection issue but the log is really that clear!
 
