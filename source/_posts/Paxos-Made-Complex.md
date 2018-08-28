@@ -17,5 +17,11 @@ I hope as my reading activities continue those doubts can be cleared eventually!
 
 ### Application
 
+分布式存储系统&&分布式应用系统
+
+paxos算法是一个比较完备的解决分布式一致性的算法
+
+1是能够保证集群操作的顺序化，2在主机宕机重选之后集群操作的不丢失和可恢复 
+
 [ZooKeeper](http://zookeeper.apache.org/)
 
