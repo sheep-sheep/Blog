@@ -64,4 +64,15 @@ tags: linux, ubuntu
 
   `sudo systemctl restart [servicename]`
 
-  
+- Windows Kill Process
+
+  *Step one:*
+
+  `netstat -ano | findstr :8080`
+
+  *Step two:*
+
+  `taskkill /PID typeyourPIDhere /F`
+
+  (`/F` forcefully terminates the process)
+
