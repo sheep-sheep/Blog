@@ -2,16 +2,16 @@
     {
        "name":"Flaskagram",
        "url":"https://flaskagram.yangzhang.us/",
-       "desc":"A fast, simple Instagram like Flask App"
+       "desc":"A fast, simple Instagram like Flask App supported by Nginx, Gunicorn, Flask, SQLite, AWS."
     },
     {
-       "name":"Bitcoin Price Visualizer",
-       "url":"http://fontawesome.io/",
-       "desc":"A visualization project for bitcoin price to pratice JS"
+       "name":"Bitcoin/Stock Price Dashboard",
+       "url":"https://dashboard.yangzhang.us/",
+       "desc":"A visualization project for bitcoin price to pratice ReactJS, D3, and the deployment process."
     },
     {
        "name":"Notes of Leetcode",
        "url":"https://yangzhang.us/leetcode",
-       "desc":"A Sphinx documentation for Leetcode questions, click with CAUTION, there's no BACK"
+       "desc":"A Sphinx documentation to hold Leetcode questions."
     }
 ]
